@@ -324,7 +324,7 @@ npm update
 
 ---
 
-## � Documentación Adicional
+## 🧰 Documentación Adicional
 
 Para información más detallada, consulta la documentación en la carpeta `/docs`:
 
