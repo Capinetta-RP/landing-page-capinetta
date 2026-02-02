@@ -1,0 +1,36 @@
+<%- include('partials/header', { 
+    title: 'Página no encontrada - Capi Netta RP',
+    description: 'La página que buscas no existe. Vuelve al inicio para explorar nuestro servidor de GTA V roleplay.',
+    ogTitle: 'Página no encontrada - Capi Netta RP',
+    ogDescription: 'La página que buscas no existe en Capi Netta RP.',
+    page: '404',
+    headerClass: 'scrolled'
+}) %>
+
+    <main class="error-page">
+        <div class="container error-container">
+            <div class="error-content glass-panel">
+                <div class="error-icon">
+                    <i class="fas fa-map-marked-alt"></i>
+                </div>
+                <h1 class="error-code">404</h1>
+                <h2 class="error-title">Página no encontrada</h2>
+                <p class="error-message">
+                    Lo sentimos, la página que buscas no existe. Quizás fue movida, eliminada o el enlace es incorrecto.
+                </p>
+                <div class="error-actions">
+                    <a href="/" class="btn btn-primary">
+                        <i class="fas fa-home"></i> Volver al Inicio
+                    </a>
+                    <a href="/como-empezar" class="btn btn-secondary">
+                        <i class="fas fa-book"></i> Guía para Empezar
+                    </a>
+                </div>
+                <div class="error-help">
+                    <p>¿Necesitas ayuda? Únete a nuestro <a href="https://discord.gg/tpxRFHugX7" target="_blank">Discord</a></p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+<%- include('partials/footer') %>

@@ -1,0 +1,10 @@
+# Robots.txt para Capi Netta RP
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Crawl-delay para no sobrecargar el servidor
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://capinettarp.com.ar/sitemap.xml
