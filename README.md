@@ -38,7 +38,7 @@
 
 ---
 
-## �📋 Descripción
+## 📋 Descripción
 
 Landing page moderna, responsive y optimizada para SEO del servidor **Capi Netta RP**, un proyecto de roleplay en GTA V (FiveM) enfocado en la comunidad hispana de **Latinoamérica y España**.
 
@@ -324,7 +324,7 @@ npm update
 
 ---
 
-## � Documentación Adicional
+## 🧰 Documentación Adicional
 
 Para información más detallada, consulta la documentación en la carpeta `/docs`:
 
