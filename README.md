@@ -431,7 +431,7 @@ Queremos agradecer a:
   
   <br><br>
   
-  [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/tpxRFHugX7)
+  [![Discord](https://img.shields.io/discord/1448186700403834961?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/tpxRFHugX7)
   [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcapinettarp.com.ar)](https://capinettarp.com.ar)
   
 </div>
