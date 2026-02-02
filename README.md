@@ -386,13 +386,13 @@ Para información más detallada, consulta la documentación en la carpeta `/doc
 
 ## 📊 Estadísticas del Proyecto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Capinetta-RP/landing-page-capinetta)
-![GitHub contributors](https://img.shields.io/github/contributors/Capinetta-RP/landing-page-capinetta)
-![GitHub stars](https://img.shields.io/github/stars/Capinetta-RP/landing-page-capinetta)
-![GitHub forks](https://img.shields.io/github/forks/Capinetta-RP/landing-page-capinetta)
-![GitHub issues](https://img.shields.io/github/issues/Capinetta-RP/landing-page-capinetta)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Capinetta-RP/landing-page-capinetta)
-![GitHub last commit](https://img.shields.io/github/last-commit/Capinetta-RP/landing-page-capinetta)
+![GitHub repo size](https://img.shields.io/github/repo-size/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/pulls/Capinetta-RP/landing-page-capinetta?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Capinetta-RP/landing-page-capinetta?style=flat-square)
 
 ---
 
@@ -431,7 +431,7 @@ Queremos agradecer a:
   
   <br><br>
   
-  [![Discord](https://img.shields.io/discord/1448186700403834961?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/tpxRFHugX7)
-  [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcapinettarp.com.ar)](https://capinettarp.com.ar)
+  [![Discord](https://img.shields.io/badge/Discord-Únete-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tpxRFHugX7)
+  [![Website](https://img.shields.io/badge/Website-Visita-4CAF50?style=for-the-badge&logo=world&logoColor=white)](https://capinettarp.com.ar)
   
 </div>
