@@ -391,7 +391,6 @@ Para información más detallada, consulta la documentación en la carpeta `/doc
 ![GitHub stars](https://img.shields.io/github/stars/Capinetta-RP/landing-page-capinetta?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Capinetta-RP/landing-page-capinetta?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Capinetta-RP/landing-page-capinetta?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/pulls/Capinetta-RP/landing-page-capinetta?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Capinetta-RP/landing-page-capinetta?style=flat-square)
 
 ---
